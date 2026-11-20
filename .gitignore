@@ -1,0 +1,13 @@
+
+# Archivos compilados
+/bin/
+*.class
+
+# Workspace de Eclipse
+.metadata/
+
+# Configuracion privada
+.env
+
+# Archivos temporales
+*.log
